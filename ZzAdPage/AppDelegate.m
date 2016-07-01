@@ -4,7 +4,6 @@
 //
 //  Created by Zin_戦 on 16/6/16.
 //  Copyright © 2016年 Zin戦壕. All rights reserved.
-//
 
 #import "AppDelegate.h"
 #import "ZzAdView.h"
